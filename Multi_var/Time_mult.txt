@@ -1,0 +1,27 @@
+
+!Staion dependent
+YMDHM   	Station  	5i4    HOBART26
+Second  	Station  	f20.14 HOBART26
+YMDHM   	Station  	5i4    BADARY
+Second  	Station  	f20.14 BADARY
+YMDHM   	Station  	5i4    KOKEE	
+Second  	Station  	f20.14 KOKEE
+YMDHM   	Station  	5i4    FORTLEZA
+Second  	Station  	f20.14 FORTLEZA
+YMDHM   	Station  	5i4    HART15M
+Second  	Station  	f20.14 HART15M
+YMDHM   	Station  	5i4    MATERA	
+Second  	Station  	f20.14 MATERA
+YMDHM   	Station  	5i4    NYALES20
+Second  	Station  	f20.14 NYALES20
+YMDHM   	Station  	5i4    SVETLOE
+Second  	Station  	f20.14 SVETLOE
+YMDHM   	Station  	5i4    WETTZELL	
+Second  	Station  	f20.14 WETTZELL
+YMDHM   	Station  	5i4    YARRA12M
+Second  	Station  	f20.14 YARRA12M
+YMDHM   	Station  	5i4    ZELENCHK
+Second  	Station  	f20.14 ZELENCHK
+
+
+

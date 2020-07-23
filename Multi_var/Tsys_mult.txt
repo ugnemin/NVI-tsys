@@ -1,0 +1,31 @@
+!Observation dependent
+!YMDHM           Observation      5i4
+!Second          Observation      f20.14
+!Source          Observation      8a1
+!Baseline        Observation      8a1,1x,8a1
+!GroupDelay      Observation      g20.14       X
+!GroupDelaySig   Observation      g20.14       X
+!StartOffset     Observation      i5           X
+!StopOffset      Observation      i5           X
+
+!Scan dependent
+!YMDHM           Scan      5i4
+!Second          Scan      f20.14
+!CROOTFIL        Scan      16a1
+!ScanNameFull    Scan     30a1
+!ScanName        Scan      10a1
+
+!Staion dependent
+TsysData 	Station 	f8.2    HOBART26
+TsysData 	Station	f8.2	BADARY
+TsysData 	Station	f8.2	KOKEE
+TsysData 	Station 	f8.2    FORTLEZA
+TsysData 	Station	f8.2	HART15M
+TsysData 	Station	f8.2	MATERA
+TsysData 	Station 	f8.2    NYALES20
+TsysData 	Station	f8.2	SVETLOE
+TsysData 	Station	f8.2	WETTZELL
+TsysData 	Station 	f8.2    YARRA12M
+TsysData 	Station	f8.2	ZELENCHK
+
+
